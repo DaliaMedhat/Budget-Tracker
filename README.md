@@ -17,7 +17,8 @@ A slightly colorful background is also implemented with changing colors whenever
 - React
 - tailwindcss for styling
 
+# Screenshots can be seen below
 
-![Screenshot 2024-06-23 at 11 43 38 PM (2)](https://github.com/DaliaMedhat/Budget-Tracker/assets/47298390/a6319b3e-0ae0-4f10-823d-fc914419e83e)
+![Screenshot 2024-06-23 at 11 43 38 PM (2)](https://github.com/DaliaMedhat/Budget-Tracker/assets/47298390/d08ec8f3-c674-4a70-bcf7-c85eb19b0b71)
 ![Screenshot 2024-06-23 at 11 43 47 PM](https://github.com/DaliaMedhat/Budget-Tracker/assets/47298390/1fb3df91-561e-416a-9783-0bb195921aeb)
 ![Screenshot 2024-06-23 at 11 44 23 PM](https://github.com/DaliaMedhat/Budget-Tracker/assets/47298390/13f8d3e4-0531-4828-8f1f-8471743c580c)
