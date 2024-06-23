@@ -7,15 +7,26 @@ The user is also able to delete any record.
 
 As a visulaization tool, a pie chart is implemented. Whenever any record (income/expenses) is added, the pie chart appears. 
 The total income and expenses is also stated to improve UX.
-A slightly colorful background is also implemented with changing colors whenever hovering.
+
 
 # How to run the application
 - In the main directory, run "npm start"
 
-# Technologies used
+# Technologies and Design ideas
 - Javascript
 - React
 - tailwindcss for styling
+
+- Pie Chart for visualization
+- Easy UI to avoid confusion
+- A slightly colorful background with changing colors when hovering.
+- Well-known colors for the PieChart (Green & Red) for user's familiarity and linking to the colors.
+- Total Income and Total Expenses with the same colors as the PieChart to link them.
+- Checks are done on 
+      * whether description or amount fields are empty.
+      * whether the amount field has a negative number (can be considered expense but does not make sense since we have expenses in our dropdown list).
+      * 'no records yet' as a user feedback message.
+
 
 # Screenshots can be seen below
 
