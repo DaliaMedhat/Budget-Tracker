@@ -10,8 +10,7 @@ The total income and expenses is also stated to improve UX.
 A slightly colorful background is also implemented with changing colors whenever hovering.
 
 # How to run the application
-- Go inside the folder budget-tracker
-- run "npm start"
+- In the main directory, run "npm start"
 
 # Technologies used
 - Javascript
