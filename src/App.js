@@ -6,7 +6,7 @@ import {
   BackgroundBlush,
   PieChart,
 } from "./components";
-import "./styles.css";
+import "./App.css";
 
 const App = () => {
   const [isVisible, setIsVisible] = useState(false);
